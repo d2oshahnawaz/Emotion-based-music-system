@@ -13,10 +13,10 @@ In this video I used live emoji project code to create a model which could class
 
 <h1>Connect with me</h1>
 If you have any queries regarding any of the topic I discussed in this video feel free to talk to e using below links:<br>
-facebook : https://m.facebook.com/proogramminghub<br>
-instagram : @programming_hut<br>
-twitter : https://twitter.com/programming_hut<br>
-github : https://github.com/Pawandeep-prog<br>
-discord : https://discord.gg/G5Cunyg<br>
-linkedin : https://www.linkedin.com/in/programminghut<br>
-youtube : https://www.youtube.com/c/programminghutofficial<br>
+facebook : https://www.facebook.com/mohdshahnawaz.mohdshahnwaz.1<br>
+instagram : https://instagram.com/mohd.s_hahnawaz?igshid=NTc4MTIwNjQ2YQ==<br>
+twitter : https://twitter.com/MohdSha49691418?t=NL3YzH-QU3qowue9LGeonA&s=09<br>
+github : https://github.com/d2oshahnawaz<br>
+telegram : http://t.me/techeducationworldTEW<br>
+linkedin : https://www.linkedin.com/in/mohd-shahnawaz-645371205<br>
+youtube : https://www.youtube.com/@mohdshahnawaz2<br>
